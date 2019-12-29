@@ -1,0 +1,6 @@
+[client]
+database= 'tutorial'
+user= 'souptik'
+password= 'SOUPTIK12345!@#$%maiti'
+default-character-set ='utf8'
+

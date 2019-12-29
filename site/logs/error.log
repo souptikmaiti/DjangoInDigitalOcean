@@ -1,0 +1,4 @@
+[Sun Dec 29 07:47:06.990313 2019] [wsgi:error] [pid 29285:tid 139925441410816] [remote 223.223.150.61:55926] Not Found: /favicon.ico
+[Sun Dec 29 07:49:05.413827 2019] [wsgi:error] [pid 29285:tid 139925441410816] [remote 223.223.150.61:46970] Not Found: /favicon.ico
+[Sun Dec 29 08:04:19.428773 2019] [wsgi:error] [pid 29285:tid 139925441410816] [remote 223.223.150.61:40601] Not Found: /favicon.ico
+[Sun Dec 29 13:28:43.005118 2019] [wsgi:error] [pid 29285:tid 139925441410816] [remote 159.203.4.53:56112] Not Found: /index.php
